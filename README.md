@@ -30,6 +30,7 @@ Nota: O Minhas Despesas ainda está em fase de desenvolvimento. Você pode confe
 ### 👾 Linguagens e Ferramentas
 <img align="left" alt="Kotlin" width="30px" src="https://github.com/andrecomegno/andrecomegno/blob/main/icon/kotlin.png" />
 <img align="left" alt="AndroidStudio" width="30px" src="https://github.com/andrecomegno/andrecomegno/blob/main/icon/androidstudio.png" />
+<img align="left" alt="RoomDB" width="30px" src="https://github.com/andrecomegno/andrecomegno/blob/main/icon/roomdb.png" />
 <img align="left" alt="Photoshop" width="30px" src="https://github.com/andrecomegno/andrecomegno/blob/main/icon/photoshop.png" />
 <img align="left" alt="Figma" width="30px" src="https://github.com/andrecomegno/andrecomegno/blob/main/icon/figma.png" />
 <br>
